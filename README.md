@@ -1,184 +1,307 @@
 # 👋 Hey, I'm Ritam
 
-### 💻 Software Engineer | Full-Stack Developer | AI Enthusiast
-
-I enjoy building **real-world applications**, solving problems with **Data Structures & Algorithms**, and exploring how **AI can make software more intelligent and useful**.
-
-Currently focused on **C++, Full-Stack Development, and AI/LLM technologies**.
-
----
-
-## 🚀 About Me
-
-- 💻 Building full-stack applications with **React, Node.js & MongoDB**
-- 🧠 Practicing **Data Structures & Algorithms with C++**
-- ☕ Exploring **Java** and object-oriented programming
-- 🤖 Exploring **AI, LLMs & RAG**
-- 🌐 Interested in building scalable and user-focused applications
-- 🔧 Using **Git & GitHub** for version control and collaboration
-- 📚 Always learning, building and improving
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
+### 🌱 Learning • Building • Improving
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,python" />
-</p>
-
-### 🎨 Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
-
-### ⚙️ Backend & Database
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### 🤖 AI & Emerging Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-**Exploring:** `AI` • `LLMs` • `RAG` • `AI-powered Applications`
-
-### 🔧 Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+  <img src="https://komarev.com/ghpvc/?username=ritam-201&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/ritam-201?label=Followers&style=for-the-badge&color=blue" />
 </p>
 
 ---
 
-## ⭐ Featured Projects
+## 🧑‍💻 A Little About Me
 
-### 🌾 KisanSetu
+I'm currently on my journey of becoming a better **developer and problem solver**.
 
-**Smart Farmer Procurement Management System**
+I enjoy learning how things work, building projects, solving problems, and turning ideas into working applications.
 
-A full-stack platform designed to help farmers interact with procurement centers and manage the procurement process.
+- 🌱 Currently learning **Data Structures & Algorithms**
+- 💻 Exploring **Web & Full-Stack Development**
+- 🤖 Beginning my journey into **AI, LLMs & RAG**
+- 🛠️ Building projects to strengthen my practical skills
+- 🧩 Practicing problem solving with **C++**
+- 🚀 Exploring **Git, GitHub, Docker & Cloud**
+- 📚 Learning something new every day
 
-**Tech Stack:** `React` `Node.js` `Express` `MongoDB`
-
-**Key Features:**
-- 👨‍🌾 Farmer authentication
-- 🌾 Crop selection
-- 🏢 Procurement center selection
-- 📅 Procurement scheduling
-- 💳 Payment management
-- 👨‍💼 Admin dashboard
-
-🔗 [View Repository](https://github.com/ritam-201/KrishanSetu)
+> **Not an expert. Not finished. Just constantly learning. 🚀**
 
 ---
 
-### 📚 EduNexa
+## 🛠️ Technologies I'm Learning
 
-**Student Learning & Education Platform**
+### 💻 Programming Languages
 
-A modern React-based student-focused platform designed with a clean and engaging user experience.
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts" />
+</p>
 
-**Tech Stack:** `React` `JavaScript` `CSS`
+### 🌐 Web Development
 
-**Key Features:**
-- 🎓 Student-focused experience
-- 🌙 Dark/Light mode
-- 📱 Responsive design
-- ✨ Modern UI
-- 🧩 Reusable React components
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,nodejs,express" />
+</p>
 
-🔗 **Repository:** Coming soon
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+### ⚙️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
+</p>
 
 ---
 
-### 🧠 DSA with C++
+## 🧠 What I'm Currently Working On
 
-A collection of my **Data Structures & Algorithms** practice and problem-solving journey using C++.
+<table>
+<tr>
+<td width="50%">
 
-**Topics include:**
+### 🧩 DSA
 
-`Time Complexity` • `Space Complexity` • `Recursion` • `Sorting` • `Arrays` • `Binary Search` • `Strings` • `Linked Lists` • `Trees` • `Graphs`
+Building strong fundamentals in:
 
-🔗 **Repository:** Coming soon
+- Time & Space Complexity
+- Recursion
+- Sorting
+- Arrays
+- Binary Search
+- Problem Solving
+
+</td>
+
+<td width="50%">
+
+### 🌐 Development
+
+Learning by building:
+
+- React applications
+- Full-stack projects
+- REST APIs
+- MongoDB applications
+- Modern UI experiences
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 AI
+
+Exploring:
+
+- Artificial Intelligence
+- LLMs
+- RAG
+- AI-powered applications
+- AI + Web Development
+
+</td>
+
+<td width="50%">
+
+### 🛠️ Engineering Tools
+
+Learning:
+
+- Git & GitHub
+- Docker
+- Linux
+- APIs
+- Deployment
+- Cloud fundamentals
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💻 What I Love Building
+# 🚀 Projects
+
+## 🌾 KisanSetu
+
+**Smart Farmer Procurement & Management System**
+
+A full-stack project focused on making agricultural procurement more organized and accessible.
+
+**Built with:**
+
+`React` `Node.js` `Express` `MongoDB`
+
+---
+
+## 🎓 EduNexa
+
+**Student Learning & Education Hub**
+
+A modern web application focused on bringing useful educational resources and student-focused features together.
+
+**Built with:**
+
+`React` `Vite` `JavaScript` `CSS`
+
+---
+
+## 💡 More Projects Coming...
+
+I'm continuously building projects while learning new technologies.
+
+> **Learn → Build → Break → Debug → Improve → Repeat 🔁**
+
+---
+
+# 🧩 Problem Solving
+
+Currently practicing **Data Structures & Algorithms** with C++.
 
 ```text
-🌐 Web Applications
-        ↓
-⚛️ React Frontend
-        ↓
-⚙️ Node.js Backend
-        ↓
-🗄️ MongoDB Database
-        ↓
-🤖 AI-powered Features
+Programming Basics
+       ↓
+Time & Space Complexity
+       ↓
+Recursion
+       ↓
+Sorting
+       ↓
+Arrays
+       ↓
+Binary Search
+       ↓
+Strings
+       ↓
+Linked List
+       ↓
+Stack & Queue
+       ↓
+Trees
+       ↓
+Graphs
+       ↓
+Dynamic Programming
 ```
 
-I enjoy turning ideas into **functional, scalable and user-friendly applications**.
+### 💻 Practice Platforms
+
+<p>
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## 🧠 Problem Solving
-
-I regularly practice programming and DSA to improve my:
-
-- Problem-solving skills
-- Algorithmic thinking
-- Time & space complexity analysis
-- C++ programming
-- Ability to write efficient and maintainable code
-
----
-
-## 📊 GitHub
+# 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritam-201&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritam-201&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ritam-201&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritam-201&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Consistency > Perfection
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ritam-201&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=ritam-201&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritam-201&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/ritam-201">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-## ⚡ Developer Mindset
+# 🎯 My Current Focus
 
 ```text
-Learn → Build → Break → Debug → Improve → Repeat
-```
+🧠 Strengthen Programming Fundamentals
 
-> **"Build things that solve real problems."**
+        +
+
+🧩 Improve DSA & Problem Solving
+
+        +
+
+🌐 Build Real-World Web Applications
+
+        +
+
+🤖 Explore AI & LLM Technologies
+
+        +
+
+🚀 Become a Better Developer
+```
 
 ---
 
-⭐ If you find any of my projects interesting, feel free to explore my repositories.
+# 📚 My Learning Philosophy
 
-**Thanks for visiting my profile! 🚀**
+> ### "I don't want to just learn technologies.
+> ### I want to understand how they work and build something with them."
+
+I'm focusing on **consistent progress**, building projects, solving problems, and learning from every mistake.
+
+---
+
+# 🌱 Currently Learning
+
+<p align="center">
+
+`C++` • `Java` • `JavaScript` • `TypeScript` • `React` • `Node.js` • `MongoDB` • `DSA` • `Git` • `Docker` • `AI` • `LLMs`
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="left">
+
+<a href="https://github.com/ritam-201">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**I'm still learning, still building, and still improving. 🚀**
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
