@@ -1,3 +1,4 @@
+<img width="1983" height="793" alt="Neon Developer Portfolio Banner" src="https://github.com/user-attachments/assets/e80eeeb2-3752-4606-a7e3-bbbdf04981c7" />
 # 👋 Hey, I'm Ritam
 
 ### 🌱 Learning • Building • Improving
@@ -231,29 +232,6 @@ Dynamic Programming
 
 ---
 
-# 🎯 My Current Focus
-
-```text
-🧠 Strengthen Programming Fundamentals
-
-        +
-
-🧩 Improve DSA & Problem Solving
-
-        +
-
-🌐 Build Real-World Web Applications
-
-        +
-
-🤖 Explore AI & LLM Technologies
-
-        +
-
-🚀 Become a Better Developer
-```
-
----
 
 # 📚 My Learning Philosophy
 
